@@ -2,9 +2,11 @@
 
 I'm Kishor, a Computer Engineering student at the National University of Singapore 👨‍🎓
 
-⚡ Fun fact: Even tho I know that Linux is superior, I am too lazy to change OS 😄
+I love to incorporate fun in whichever project I am working on. This helps me boost the learning process and enjoy what I'm doing at the same time 😃
 
-GitHub is a saviour if you know how to use it well!
+⚡ Fun fact: Even though I know that Linux is superior, I am too lazy to change OS 😅
+
+NOTE: GitHub is a saviour if you know how to use it well!
 
 **Github Stats:**
 
