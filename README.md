@@ -12,7 +12,7 @@ I love to incorporate fun in whichever project I am working on. This helps me bo
 
 NOTE: GitHub is a saviour if you know how to use it well!
 
-**Github Stats:**
+🚀**Github Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KishorKumar11&show_icons=true&include_all_commits=true&theme=blueberry" alt="Anurag's github stats" />
