@@ -2,8 +2,7 @@
 
 I'm Kishor, a Computer Engineering student at the National University of Singapore 👨‍🎓
 
-- 💬 [Ask me about anything](https://github.com/KishorKumar11/KishorKumar11/discussions)
-- ⚡ Fun fact: Even tho I know that Linux is superior, I am too lazy to change OS 😄
+⚡ Fun fact: Even tho I know that Linux is superior, I am too lazy to change OS 😄
 
 GitHub is a saviour if you know how to use it well!
 
