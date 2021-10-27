@@ -1,4 +1,4 @@
-### Hi there 👋 Hope you are doing great!
+# Hi there 👋 Hope you are doing great!
 
 I'm Kishor, a Computer Engineering student at the National University of Singapore 👨‍🎓 
 
