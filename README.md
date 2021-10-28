@@ -20,8 +20,10 @@ Note: GitHub is a saviour if you know how to use it well!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KishorKumar11&show_icons=true&include_all_commits=true&theme=nord" alt="Anurag's github stats" />
   
+<br>
   
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumar11&theme=prussian" />
+  <img align="center" src="htps://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumar11&layout=compact)"
+ /> 
 </a>
