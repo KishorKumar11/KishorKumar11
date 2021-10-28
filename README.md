@@ -1,4 +1,4 @@
-# Hi there 👋 Hope you are doing great!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hope you are doing great!
 
 I'm Kishor, a Computer Engineering student at the National University of Singapore 👨‍🎓 
 
