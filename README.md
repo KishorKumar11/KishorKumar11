@@ -25,5 +25,5 @@ Note: GitHub is a saviour if you know how to use it well!
   
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumar11&count_private=true&show_icons=true&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumar11&count_private=true&show_icons=true&theme=prussian&layout=compact" />
 </a>
