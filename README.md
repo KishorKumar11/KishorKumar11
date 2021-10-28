@@ -17,7 +17,7 @@ Note: GitHub is a saviour if you know how to use it well!
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61DBFB)
