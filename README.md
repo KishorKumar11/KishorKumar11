@@ -24,17 +24,3 @@ Note: GitHub is a saviour if you know how to use it well!
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61DBFB)
-
-
-## 🚀Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KishorKumar11&show_icons=true&include_all_commits=true&theme=nord" alt="Anurag's github stats" />
-  
-<br>
-  <br>
-  
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumar11&count_private=true&show_icons=true&theme=nord&layout=compact" />
-</a>
