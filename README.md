@@ -24,3 +24,7 @@ Note: GitHub is a saviour if you know how to use it well!
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61DBFB)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KishorKumar11/KishorKumar11/output/snake.svg" alt="Snake animation" />
+</p>
