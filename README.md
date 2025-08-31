@@ -1,12 +1,15 @@
-# Hey there hope you are doing great! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:002bdc,100:32ded4&text=Welcome%20to%20Kishor%27s%20GitHub!&fontColor=ffffff&fontAlign=50&fontAlignY=35&fontSize=42"
+    width="100%"
+  />
+</p>
 
 ## 📖 About Me  
 
-I'm Kishor, a Computer Engineering Graduate from the National University of Singapore 🇸🇬
-
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-kumar-419bb5202/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@h.kishorkumar7)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=32DED4&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Kishor!;Computer+Engineering+Graduate+from+the+National+University+of+Singapore;Full+Stack+Developer;Frontend%2C+Backend%2C+Database%2C+Cloud%2C+AI%2C+Scripts;Optimistic.+Passionate.+Caring.;Let's+Build+Something+Fun+Together!+" />
+</p>
 
 
 ```ascii
@@ -15,20 +18,21 @@ I'm Kishor, a Computer Engineering Graduate from the National University of Sing
                                   ╚════════════════════════════════════════════╝
 ```
 
+✨ I’ve always believed learning should be **fun**. If I’m not enjoying what I’m doing, I’ll find a way to make it interesting whether that means **turning bugs into puzzles, deadlines into mini-games, or just laughing at my own code comments** 🚀.
 
-✨ I believe learning should always come with a touch of fun. Whether I’m coding, experimenting, or building projects, I like to make the process exciting—it keeps me motivated and helps me grow faster 🚀.  
+👨‍💻 I work as a **Fullstack Developer**, which basically means I spend half my time building systems that (hopefully) make an impact, and the other half wondering why that one SQL query hates me. I love challenges that force me to think differently, even if they also force me to Google the same thing 10 times.
 
-👨‍💻 I’m a **Software Engineer** who loves building systems that blend creativity with impact. From debugging complex backend pipelines to designing immersive experiences, I enjoy challenges that push me to think differently.  
+🎮 Outside of work, I’m usually messing around with Unreal Engine, experimenting with VR/AR, or working on random side projects that may or may not ever see the light of day but **always teach me something new.**
 
-🎮 Outside of work, you’ll probably find me exploring **game engines** like Unreal, experimenting with **VR/AR projects**, or just tinkering with fun side hustles that make tech feel alive.  
-
-🌱 I’m always learning — currently diving deeper into **cloud platforms**, **data engineering**, and experimenting with how **AI** can transform real-world systems.  
+🌱 I’m a big believer in continuous learning. Right now, I’m diving deeper into **cloud platforms, data engineering, and exploring how AI can be applied to real problems.**
 
 💡 **Fun Fact:** I know Linux is superior, but I’m still happily stuck on my current OS out of pure laziness 😅.  
 
 ⚡ **Motto:** *GitHub isn’t just a tool—it’s a superpower if you know how to use it!*  
 
-> Status: Evolving | Curiosity: Infinite | Limit: Undefined
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-kumar-419bb5202/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@h.kishorkumar7)
+
 
 <br><br>
 ## 🕹️ Technologies & Tools  
