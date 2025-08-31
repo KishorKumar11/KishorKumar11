@@ -1,16 +1,18 @@
 # Hey there hope you are doing great! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## 📖 About Me  
+
 I'm Kishor, a Computer Engineering Graduate from the National University of Singapore 🇸🇬
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-kumar-419bb5202/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@h.kishorkumar7)
 
-## 📖 About Me  
 
 ```ascii
-                                    ╔════════════════════════════════════════════╗
-                                    ║   Building Today, Engineering Tomorrow     ║
-                                    ╚════════════════════════════════════════════╝
+                                  ╔════════════════════════════════════════════╗
+                                  ║   Building Today, Engineering Tomorrow     ║
+                                  ╚════════════════════════════════════════════╝
 ```
 
 
