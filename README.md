@@ -85,10 +85,3 @@
     alt="Random Dev Quote"
   />
 </p>
-
-<br><br>
-## 💫 Cool Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KishorKumar11/KishorKumar11/output/snake.svg" alt="Snake animation" />
-</p>
